@@ -1,0 +1,8 @@
+streamlit
+
+# pip install -r requirements.txt
+
+# ollama pull deepseek-coder
+
+# Run your app
+# streamlit run app.py
